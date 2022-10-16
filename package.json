@@ -1,0 +1,14 @@
+{
+  "name": "speedrunback",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0",
+    "pg": "^8.8.0"
+  },
+  "devDependencies": {
+    "@awaitjs/express": "^0.9.0",
+    "cors": "^2.8.5"
+  }
+}
